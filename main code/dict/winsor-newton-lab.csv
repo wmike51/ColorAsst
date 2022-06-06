@@ -1,0 +1,620 @@
+﻿";""winsor-newton-lab.txt"" color dictionary",,,
+;Copyright 2010 Aubrey Jaffer,,,
+;,,,
+";Permission to copy this dictionary, to modify it, to redistribute it,",,,
+";to distribute modified versions, and to use it for any purpose is",,,
+";granted, subject to the following restrictions and understandings.",,,
+;,,,
+;1.  Any copy made of this dictionary must include this copyright notice,,,
+;in full.,,,
+;,,,
+;2.  I have made no warranty or representation that this data is,,,
+";error-free, and I am under no obligation to provide any services, by",,,
+";way of maintenance, update, or otherwise.",,,
+;,,,
+";3.  In conjunction with products arising from the use of this material,",,,
+";there shall be no use of my name in any advertising, promotional, or",,,
+;sales literature without prior written consent in each case.,,,
+,,,
+XCMS_COLORDB_START 0.1,,,
+lamp black light,47.19,-0.11,4.14
+LampBlackLight,47.19,-0.11,4.14
+lamp black medium,14.32,-0.07,-0.34
+LampBlackMedium,14.32,-0.07,-0.34
+lamp black dark,9.81,-0.03,-0.18
+LampBlackDark,9.81,-0.03,-0.18
+ivory black light,72.03,-0.03,9.89
+IvoryBlackLight,72.03,-0.03,9.89
+ivory black medium,44.2,0.68,8.97
+IvoryBlackMedium,44.2,0.68,8.97
+ivory black dark,21.87,0.73,5.13
+IvoryBlackDark,21.87,0.73,5.13
+mars black light,70.4,0.32,9.01
+MarsBlackLight,70.4,0.32,9.01
+mars black medium,28.33,0.64,3.38
+MarsBlackMedium,28.33,0.64,3.38
+mars black dark,17.3,0.22,-0.01
+MarsBlackDark,17.3,0.22,-0.01
+blue black light,47.58,-2.61,-0.2
+BlueBlackLight,47.58,-2.61,-0.2
+blue black medium,30.98,-2.76,-6.19
+BlueBlackMedium,30.98,-2.76,-6.19
+blue black dark,5.31,-1.01,-6.64
+BlueBlackDark,5.31,-1.01,-6.64
+paynes gray light,67.51,-2.1,1.76
+PaynesGrayLight,67.51,-2.1,1.76
+paynes gray medium,37.82,-2.39,-7.05
+PaynesGrayMedium,37.82,-2.39,-7.05
+paynes gray dark,25.24,-1.97,-7.56
+PaynesGrayDark,25.24,-1.97,-7.56
+charcoal gray light,55.84,-0.17,9.53
+CharcoalGrayLight,55.84,-0.17,9.53
+charcoal gray medium,32.33,0.2,6.53
+CharcoalGrayMedium,32.33,0.2,6.53
+charcoal gray dark,10.17,0.14,2.49
+CharcoalGrayDark,10.17,0.14,2.49
+davys gray light,76.8,-1.36,19.28
+DavysGrayLight,76.8,-1.36,19.28
+davys gray medium,61.53,-1.34,21.11
+DavysGrayMedium,61.53,-1.34,21.11
+davys gray dark,51.88,-1.17,20.71
+DavysGrayDark,51.88,-1.17,20.71
+raw umber light,55.86,3.31,27.12
+RawUmberLight,55.86,3.31,27.12
+raw umber medium,31.03,4.16,15.81
+RawUmberMedium,31.03,4.16,15.81
+raw umber dark,28.26,3.86,13.16
+RawUmberDark,28.26,3.86,13.16
+vandyke brown light,57.66,7.52,31.17
+VandykeBrownLight,57.66,7.52,31.17
+vandyke brown medium,38.24,9.93,26.47
+VandykeBrownMedium,38.24,9.93,26.47
+vandyke brown dark,26.55,6.24,9.2
+VandykeBrownDark,26.55,6.24,9.2
+burnt umber light,36.3,12.34,27.37
+BurntUmberLight,36.3,12.34,27.37
+burnt umber medium,24.15,2.81,3.99
+BurntUmberMedium,24.15,2.81,3.99
+burnt umber dark,23.24,2.75,4.2
+BurntUmberDark,23.24,2.75,4.2
+brown madder light,65.99,11.01,29.68
+BrownMadderLight,65.99,11.01,29.68
+brown madder medium,46.58,16.1,32.74
+BrownMadderMedium,46.58,16.1,32.74
+brown madder dark,29.29,16.6,23.3
+BrownMadderDark,29.29,16.6,23.3
+mars violet deep light,68.95,10.57,11.51
+MarsVioletDeepLight,68.95,10.57,11.51
+mars violet deep medium,34.85,15.42,11.07
+MarsVioletDeepMedium,34.85,15.42,11.07
+mars violet deep dark,26.43,16.15,11.61
+MarsVioletDeepDark,26.43,16.15,11.61
+mars violet light,76.55,10.19,23.29
+MarsVioletLight,76.55,10.19,23.29
+mars violet medium,61.13,18.45,23.9
+MarsVioletMedium,61.13,18.45,23.9
+mars violet dark,32.34,24.66,27.48
+MarsVioletDark,32.34,24.66,27.48
+indian red light,67.15,17.48,20.63
+IndianRedLight,67.15,17.48,20.63
+indian red medium,36.78,26.95,28.28
+IndianRedMedium,36.78,26.95,28.28
+indian red dark,30.47,24.34,27.03
+IndianRedDark,30.47,24.34,27.03
+venetian red light,59.17,28.04,40.01
+VenetianRedLight,59.17,28.04,40.01
+venetian red medium,42.05,30.75,40.72
+VenetianRedMedium,42.05,30.75,40.72
+venetian red dark,35.82,27.33,37.35
+VenetianRedDark,35.82,27.33,37.35
+pale red light,71.03,17.6,39.1
+PaleRedLight,71.03,17.6,39.1
+pale red medium,47.67,28.99,47.71
+PaleRedMedium,47.67,28.99,47.71
+pale red dark,37.44,27.09,38.12
+PaleRedDark,37.44,27.09,38.12
+terra rosa light,64.48,24.35,39.96
+TerraRosaLight,64.48,24.35,39.96
+terra rosa medium,45.52,32.51,49.9
+TerraRosaMedium,45.52,32.51,49.9
+terra rosa dark,38.98,31.21,48.7
+TerraRosaDark,38.98,31.21,48.7
+mars orage light,44.69,27.61,46.44
+MarsOrageLight,44.69,27.61,46.44
+mars orage medium,40.78,22.49,39.46
+MarsOrageMedium,40.78,22.49,39.46
+mars orage dark,40.74,21.69,37.63
+MarsOrageDark,40.74,21.69,37.63
+mars brown light,71.79,13.82,33.09
+MarsBrownLight,71.79,13.82,33.09
+mars brown medium,48.34,21.83,40.21
+MarsBrownMedium,48.34,21.83,40.21
+mars brown dark,30,17.32,28.06
+MarsBrownDark,30,17.32,28.06
+burnt sienna light,55.37,21.52,46.28
+BurntSiennaLight,55.37,21.52,46.28
+burnt sienna medium,39.36,21.25,26.5
+BurntSiennaMedium,39.36,21.25,26.5
+burnt sienna dark,34.34,17.78,18.58
+BurntSiennaDark,34.34,17.78,18.58
+trans gold ochre light,82.41,4.6,53.09
+TransGoldOchreLight,82.41,4.6,53.09
+trans gold ochre medium,67.21,14.15,74.46
+TransGoldOchreMedium,67.21,14.15,74.46
+trans gold ochre dark,62.44,16.33,71.63
+TransGoldOchreDark,62.44,16.33,71.63
+raw sienna light,82.14,6.13,55.81
+RawSiennaLight,82.14,6.13,55.81
+raw sienna medium,73.62,12.29,70.47
+RawSiennaMedium,73.62,12.29,70.47
+raw sienna dark,65.28,16.98,74.32
+RawSiennaDark,65.28,16.98,74.32
+yellow ochre light,82.39,6,57.39
+YellowOchreLight,82.39,6,57.39
+yellow ochre medium,67.01,15.24,70.61
+YellowOchreMedium,67.01,15.24,70.61
+yellow ochre dark,58.85,15.89,59.05
+YellowOchreDark,58.85,15.89,59.05
+mars yellow light,85.54,4.65,51.7
+MarsYellowLight,85.54,4.65,51.7
+mars yellow medium,68.93,15.27,76.26
+MarsYellowMedium,68.93,15.27,76.26
+mars yellow dark,61.87,14.14,65.33
+MarsYellowDark,61.87,14.14,65.33
+gold ochre light,82.73,6.25,62.81
+GoldOchreLight,82.73,6.25,62.81
+gold ochre medium,70.86,14.49,76.7
+GoldOchreMedium,70.86,14.49,76.7
+gold ochre dark,62.21,14.17,63.5
+GoldOchreDark,62.21,14.17,63.5
+yellow ochre pale light,77.37,11.14,83.49
+YellowOchrePaleLight,77.37,11.14,83.49
+yellow ochre pale medium,66.29,14.7,75.76
+YellowOchrePaleMedium,66.29,14.7,75.76
+yellow ochre pale dark,63.14,12.96,67.46
+YellowOchrePaleDark,63.14,12.96,67.46
+naples yellow light,93.93,-2.05,24.19
+NaplesYellowLight,93.93,-2.05,24.19
+naples yellow medium,91.41,-0.52,48.31
+NaplesYellowMedium,91.41,-0.52,48.31
+naples yellow dark,89.28,1.92,56.29
+NaplesYellowDark,89.28,1.92,56.29
+naples yellow pale light,93.36,-2.49,21.76
+NaplesYellowPaleLight,93.36,-2.49,21.76
+naples yellow pale medium,92.75,-1.9,39.88
+NaplesYellowPaleMedium,92.75,-1.9,39.88
+naples yellow pale dark,92.36,-0.46,43.38
+NaplesYellowPaleDark,92.36,-0.46,43.38
+jaune brilliant light,90.85,0.94,38.97
+JauneBrilliantLight,90.85,0.94,38.97
+jaune brilliant medium,87.9,4.39,55.21
+JauneBrilliantMedium,87.9,4.39,55.21
+jaune brilliant dark,85.86,7.64,60.88
+JauneBrilliantDark,85.86,7.64,60.88
+olive green light,51.13,-0.7,38.45
+OliveGreenLight,51.13,-0.7,38.45
+olive green medium,41.98,0.14,35.76
+OliveGreenMedium,41.98,0.14,35.76
+olive green dark,29.87,1.13,26.23
+OliveGreenDark,29.87,1.13,26.23
+sap green light,43.29,-15.06,66.92
+SapGreenLight,43.29,-15.06,66.92
+sap green medium,33.53,-15.5,51.8
+SapGreenMedium,33.53,-15.5,51.8
+sap green dark,20.91,-14.07,30.49
+SapGreenDark,20.91,-14.07,30.49
+perm sap green light,75.99,-14.26,64.55
+PermSapGreenLight,75.99,-14.26,64.55
+perm sap green medium,59.63,-16.15,70.67
+PermSapGreenMedium,59.63,-16.15,70.67
+perm sap green dark,44.55,-14.76,56.06
+PermSapGreenDark,44.55,-14.76,56.06
+prussian green light,51.64,-21.8,31.57
+PrussianGreenLight,51.64,-21.8,31.57
+prussian green medium,34.86,-24.64,27
+PrussianGreenMedium,34.86,-24.64,27
+prussian green dark,34.1,-25.26,26.9
+PrussianGreenDark,34.1,-25.26,26.9
+green light,35.48,-56.3,10.98
+GreenLight,35.48,-56.3,10.98
+green medium,21.51,-47.23,5.75
+GreenMedium,21.51,-47.23,5.75
+green dark,10.6,-23.96,-2.58
+GreenDark,10.6,-23.96,-2.58
+green yellow light,39.11,-55.53,28.92
+GreenYellowLight,39.11,-55.53,28.92
+green yellow medium,33.51,-53.16,25.03
+GreenYellowMedium,33.51,-53.16,25.03
+green yellow dark,31.84,-52.6,24.02
+GreenYellowDark,31.84,-52.6,24.02
+viridian light,67.22,-24.9,10.91
+ViridianLight,67.22,-24.9,10.91
+viridian medium,49.18,-38.76,9.39
+ViridianMedium,49.18,-38.76,9.39
+viridian dark,38.43,-43.55,9.34
+ViridianDark,38.43,-43.55,9.34
+co green deep light,82.34,-7.52,19.61
+CoGreenDeepLight,82.34,-7.52,19.61
+co green deep medium,67.73,-15.29,19.1
+CoGreenDeepMedium,67.73,-15.29,19.1
+co green deep dark,39.72,-23.83,16.79
+CoGreenDeepDark,39.72,-23.83,16.79
+cr green deep light,65.97,-20.69,11.07
+CrGreenDeepLight,65.97,-20.69,11.07
+cr green deep medium,32.93,-23.53,9.43
+CrGreenDeepMedium,32.93,-23.53,9.43
+cr green deep dark,27.89,-16.46,5.63
+CrGreenDeepDark,27.89,-16.46,5.63
+oxide of cr light,57.76,-16.35,29.67
+OxideOfCrLight,57.76,-16.35,29.67
+oxide of cr medium,48.67,-18.96,28.53
+OxideOfCrMedium,48.67,-18.96,28.53
+oxide of cr dark,41.69,-19.61,25.72
+OxideOfCrDark,41.69,-19.61,25.72
+terre verte light,77.21,-10.88,19.97
+TerreVerteLight,77.21,-10.88,19.97
+terre verte medium,60.14,-16.75,22.74
+TerreVerteMedium,60.14,-16.75,22.74
+terre verte dark,58.34,-17.19,22.78
+TerreVerteDark,58.34,-17.19,22.78
+perm green deep light,48.57,-56.15,26.91
+PermGreenDeepLight,48.57,-56.15,26.91
+perm green deep medium,35.07,-55.98,21.53
+PermGreenDeepMedium,35.07,-55.98,21.53
+perm green deep dark,26.04,-47.4,14.23
+PermGreenDeepDark,26.04,-47.4,14.23
+perm green light,63.26,-44.02,36.05
+PermGreenLight,63.26,-44.02,36.05
+perm green medium,51.6,-52.17,36.9
+PermGreenMedium,51.6,-52.17,36.9
+perm green dark,46.39,-53.44,35.07
+PermGreenDark,46.39,-53.44,35.07
+perm green pale light,62.12,-33.29,46.56
+PermGreenPaleLight,62.12,-33.29,46.56
+perm green pale medium,50.8,-38.8,40.31
+PermGreenPaleMedium,50.8,-38.8,40.31
+perm green pale dark,44.48,-39.09,33.96
+PermGreenPaleDark,44.48,-39.09,33.96
+emerald light,69.24,-46.06,26.98
+EmeraldLight,69.24,-46.06,26.98
+emerald medium,59.08,-51.09,25.15
+EmeraldMedium,59.08,-51.09,25.15
+emerald dark,49.61,-45.69,17.27
+EmeraldDark,49.61,-45.69,17.27
+cd green light,73.33,-25.14,56.96
+CdGreenLight,73.33,-25.14,56.96
+cd green medium,63,-33.96,59.84
+CdGreenMedium,63,-33.96,59.84
+cd green dark,52.25,-38.54,52.14
+CdGreenDark,52.25,-38.54,52.14
+cd green pale light,76.37,-22.09,83.72
+CdGreenPaleLight,76.37,-22.09,83.72
+cd green pale medium,69.37,-25.34,76.84
+CdGreenPaleMedium,69.37,-25.34,76.84
+cd green pale dark,67.35,-25.33,75.64
+CdGreenPaleDark,67.35,-25.33,75.64
+co green light,78.95,-11.37,13.38
+CoGreenLight,78.95,-11.37,13.38
+co green medium,69.62,-18.67,9.53
+CoGreenMedium,69.62,-18.67,9.53
+co green dark,54.31,-27.85,4.86
+CoGreenDark,54.31,-27.85,4.86
+co turquoise light,65.18,-18.28,-7.92
+CoTurquoiseLight,65.18,-18.28,-7.92
+co turquoise medium,48.36,-24.77,-15.69
+CoTurquoiseMedium,48.36,-24.77,-15.69
+co turquoise dark,39.39,-26.36,-17.53
+CoTurquoiseDark,39.39,-26.36,-17.53
+pthalo turquoise light,55.53,-32.21,-30.23
+PthaloTurquoiseLight,55.53,-32.21,-30.23
+pthalo turquoise medium,35.03,-34.56,-34.83
+PthaloTurquoiseMedium,35.03,-34.56,-34.83
+pthalo turquoise dark,21,-23.16,-25.27
+PthaloTurquoiseDark,21,-23.16,-25.27
+indigo light,58.09,-5.84,-3.71
+IndigoLight,58.09,-5.84,-3.71
+indigo medium,14.91,-3.15,-11.82
+IndigoMedium,14.91,-3.15,-11.82
+indigo dark,5.81,-0.23,-3.19
+IndigoDark,5.81,-0.23,-3.19
+prussian blue light,69.23,-13.82,-8.76
+PrussianBlueLight,69.23,-13.82,-8.76
+prussian blue medium,35.89,-12.66,-37.21
+PrussianBlueMedium,35.89,-12.66,-37.21
+prussian blue dark,6.48,6.81,-28.08
+PrussianBlueDark,6.48,6.81,-28.08
+indathrene blue light,28.63,4.21,-49.89
+IndathreneBlueLight,28.63,4.21,-49.89
+indathrene blue medium,18.7,12.14,-48.61
+IndathreneBlueMedium,18.7,12.14,-48.61
+indathrene blue dark,14.02,13.91,-41.49
+IndathreneBlueDark,14.02,13.91,-41.49
+ultramarine light,44.28,5.01,-60.24
+UltramarineLight,44.28,5.01,-60.24
+ultramarine medium,30.85,17.31,-72.01
+UltramarineMedium,30.85,17.31,-72.01
+ultramarine dark,26.26,22.27,-68.82
+UltramarineDark,26.26,22.27,-68.82
+ultramarine green light,62.03,-7.86,-32.78
+UltramarineGreenLight,62.03,-7.86,-32.78
+ultramarine green medium,37.23,0.73,-64.62
+UltramarineGreenMedium,37.23,0.73,-64.62
+ultramarine green dark,27.1,13.27,-66.15
+UltramarineGreenDark,27.1,13.27,-66.15
+blue red light,55.78,-19.71,-32.15
+BlueRedLight,55.78,-19.71,-32.15
+blue red medium,31.83,-15.45,-53.76
+BlueRedMedium,31.83,-15.45,-53.76
+blue red dark,26.65,-11.26,-54.9
+BlueRedDark,26.65,-11.26,-54.9
+blue green light,37.96,-19.71,-52.8
+BlueGreenLight,37.96,-19.71,-52.8
+blue green medium,22.16,-6.04,-46.12
+BlueGreenMedium,22.16,-6.04,-46.12
+blue green dark,14.31,1.42,-35.91
+BlueGreenDark,14.31,1.42,-35.91
+co blue deep light,51.93,-1.33,-45.04
+CoBlueDeepLight,51.93,-1.33,-45.04
+co blue deep medium,37.43,4.3,-59.73
+CoBlueDeepMedium,37.43,4.3,-59.73
+co blue deep dark,33.75,6.77,-62.86
+CoBlueDeepDark,33.75,6.77,-62.86
+co blue light,74.43,-7.76,-14.69
+CoBlueLight,74.43,-7.76,-14.69
+co blue medium,57.52,-10.13,-37.11
+CoBlueMedium,57.52,-10.13,-37.11
+co blue dark,44.29,-11.34,-48.53
+CoBlueDark,44.29,-11.34,-48.53
+cerulean blue light,54.86,-20.14,-29.52
+CeruleanBlueLight,54.86,-20.14,-29.52
+cerulean blue medium,36.9,-17.4,-38.72
+CeruleanBlueMedium,36.9,-17.4,-38.72
+cerulean blue dark,34.63,-15.82,-38.39
+CeruleanBlueDark,34.63,-15.82,-38.39
+mn blue light,81.24,-14.2,-3.37
+MnBlueLight,81.24,-14.2,-3.37
+mn blue medium,65.71,-27.01,-22.39
+MnBlueMedium,65.71,-27.01,-22.39
+mn blue dark,57.18,-32.44,-30.26
+MnBlueDark,57.18,-32.44,-30.26
+purple madder light,26.13,28.34,7.15
+PurpleMadderLight,26.13,28.34,7.15
+purple madder medium,18.7,23.17,9.35
+PurpleMadderMedium,18.7,23.17,9.35
+purple madder dark,16.96,22.15,10.08
+PurpleMadderDark,16.96,22.15,10.08
+purple lake light,38.26,21.75,-4.99
+PurpleLakeLight,38.26,21.75,-4.99
+purple lake medium,17.57,16.05,-2.81
+PurpleLakeMedium,17.57,16.05,-2.81
+purple lake dark,10.47,9.53,0.76
+PurpleLakeDark,10.47,9.53,0.76
+magenta light,57.55,35.33,-19.13
+MagentaLight,57.55,35.33,-19.13
+magenta medium,45.08,42.71,-23.89
+MagentaMedium,45.08,42.71,-23.89
+magenta dark,39.18,43.69,-23.58
+MagentaDark,39.18,43.69,-23.58
+perm magenta light,60.41,16.89,-16.01
+PermMagentaLight,60.41,16.89,-16.01
+perm magenta medium,37.43,35.43,-19.9
+PermMagentaMedium,37.43,35.43,-19.9
+perm magenta dark,23.87,38.97,0.76
+PermMagentaDark,23.87,38.97,0.76
+mauve light,48,8.5,-31.52
+MauveLight,48,8.5,-31.52
+mauve medium,34.12,12.61,-39.86
+MauveMedium,34.12,12.61,-39.86
+mauve dark,27.9,14.26,-41.59
+MauveDark,27.9,14.26,-41.59
+ultramarine violet light,68.96,5.91,-10.61
+UltramarineVioletLight,68.96,5.91,-10.61
+ultramarine violet medium,51.9,10.86,-25
+UltramarineVioletMedium,51.9,10.86,-25
+ultramarine violet dark,44.79,12.74,-29.46
+UltramarineVioletDark,44.79,12.74,-29.46
+violet light,39.94,25.63,-45.49
+VioletLight,39.94,25.63,-45.49
+violet medium,25.34,27.55,-51.02
+VioletMedium,25.34,27.55,-51.02
+violet dark,23.16,26.08,-50.11
+VioletDark,23.16,26.08,-50.11
+perm mauve light,72.49,8.63,-0.07
+PermMauveLight,72.49,8.63,-0.07
+perm mauve medium,42.88,21.59,-25.02
+PermMauveMedium,42.88,21.59,-25.02
+perm mauve dark,24.06,28.88,-35.38
+PermMauveDark,24.06,28.88,-35.38
+co violet deep light,55.55,9.39,-25.05
+CoVioletDeepLight,55.55,9.39,-25.05
+co violet deep medium,39.26,16.76,-35.28
+CoVioletDeepMedium,39.26,16.76,-35.28
+co violet deep dark,30.54,21.81,-39.3
+CoVioletDeepDark,30.54,21.81,-39.3
+co violet light,61.76,15.02,-8.06
+CoVioletLight,61.76,15.02,-8.06
+co violet medium,51.29,20.11,-15.43
+CoVioletMedium,51.29,20.11,-15.43
+co violet dark,28.66,30.98,-28.33
+CoVioletDark,28.66,30.98,-28.33
+carmine light,36.76,46.7,21.45
+CarmineLight,36.76,46.7,21.45
+carmine medium,26.05,44.73,34.24
+CarmineMedium,26.05,44.73,34.24
+carmine dark,20.97,41.22,32.41
+CarmineDark,20.97,41.22,32.41
+perm crimson light,56.47,36.9,10.35
+PermCrimsonLight,56.47,36.9,10.35
+perm crimson medium,40.7,48.32,23.63
+PermCrimsonMedium,40.7,48.32,23.63
+perm crimson dark,36.09,49.37,30.32
+PermCrimsonDark,36.09,49.37,30.32
+crimson light,64.77,28.7,14.09
+CrimsonLight,64.77,28.7,14.09
+crimson medium,46.77,41.22,18.31
+CrimsonMedium,46.77,41.22,18.31
+crimson dark,27.82,43.79,33.24
+CrimsonDark,27.82,43.79,33.24
+rose madder deep light,81.07,12.97,16.33
+RoseMadderDeepLight,81.07,12.97,16.33
+rose madder deep medium,73.16,22.75,15.29
+RoseMadderDeepMedium,73.16,22.75,15.29
+rose madder deep dark,69.61,26.82,15.13
+RoseMadderDeepDark,69.61,26.82,15.13
+rose madder light,81.11,15.92,12.66
+RoseMadderLight,81.11,15.92,12.66
+rose madder medium,69.04,30.95,15.13
+RoseMadderMedium,69.04,30.95,15.13
+rose madder dark,59.66,39.69,19.08
+RoseMadderDark,59.66,39.69,19.08
+rose dore light,88,5.21,17.75
+RoseDoreLight,88,5.21,17.75
+rose dore medium,84.09,11.54,19.93
+RoseDoreMedium,84.09,11.54,19.93
+rose dore dark,81.53,15.64,21.55
+RoseDoreDark,81.53,15.64,21.55
+perm rose light,53.81,51.89,6.03
+PermRoseLight,53.81,51.89,6.03
+perm rose medium,47.98,53.35,15.84
+PermRoseMedium,47.98,53.35,15.84
+perm rose dark,46.02,52.76,20.29
+PermRoseDark,46.02,52.76,20.29
+cd red deep light,47.25,33.41,25.53
+CdRedDeepLight,47.25,33.41,25.53
+cd red deep medium,33.1,43.43,36.29
+CdRedDeepMedium,33.1,43.43,36.29
+cd red deep dark,30.71,42.47,36.52
+CdRedDeepDark,30.71,42.47,36.52
+red deep light,61.05,41.42,36.1
+RedDeepLight,61.05,41.42,36.1
+red deep medium,51.24,49.31,47.72
+RedDeepMedium,51.24,49.31,47.72
+red deep dark,47.3,50.65,50.43
+RedDeepDark,47.3,50.65,50.43
+bright red light,62.48,37.82,15.46
+BrightRedLight,62.48,37.82,15.46
+bright red medium,48.74,51.27,32.88
+BrightRedMedium,48.74,51.27,32.88
+bright red dark,42.23,51.66,48.88
+BrightRedDark,42.23,51.66,48.88
+vermilion light,76.34,19.04,26.2
+VermilionLight,76.34,19.04,26.2
+vermilion medium,54.51,42.88,44.04
+VermilionMedium,54.51,42.88,44.04
+vermilion dark,50.16,45.82,46
+VermilionDark,50.16,45.82,46
+cd red light,73.97,22.1,32.35
+CdRedLight,73.97,22.1,32.35
+cd red medium,58,40.83,46.84
+CdRedMedium,58,40.83,46.84
+cd red dark,48.9,49.92,60.33
+CdRedDark,48.9,49.92,60.33
+red light,70.12,34.5,28.56
+RedLight,70.12,34.5,28.56
+red medium,54.04,50.64,58.57
+RedMedium,54.04,50.64,58.57
+red dark,49.27,51.56,65.57
+RedDark,49.27,51.56,65.57
+scarlet lake light,69.94,35.63,32.6
+ScarletLakeLight,69.94,35.63,32.6
+scarlet lake medium,61.38,46.09,49.87
+ScarletLakeMedium,61.38,46.09,49.87
+scarlet lake dark,54.46,50.81,69.67
+ScarletLakeDark,54.46,50.81,69.67
+cd scarlet light,79.33,17.63,36.78
+CdScarletLight,79.33,17.63,36.78
+cd scarlet medium,60.09,45.62,76.47
+CdScarletMedium,60.09,45.62,76.47
+cd scarlet dark,55.74,48.99,81.27
+CdScarletDark,55.74,48.99,81.27
+flesh light,83.47,6.65,26.59
+FleshLight,83.47,6.65,26.59
+flesh medium,76.19,14.74,31.72
+FleshMedium,76.19,14.74,31.72
+flesh dark,69.87,21.25,31.53
+FleshDark,69.87,21.25,31.53
+orange light,77.31,22.59,54.91
+OrangeLight,77.31,22.59,54.91
+orange medium,71.78,32.28,70.88
+OrangeMedium,71.78,32.28,70.88
+orange dark,64.59,42.8,91.56
+OrangeDark,64.59,42.8,91.56
+cd orange light,83.21,13.75,54.42
+CdOrangeLight,83.21,13.75,54.42
+cd orange medium,73.46,30.83,93.33
+CdOrangeMedium,73.46,30.83,93.33
+cd orange dark,69.82,35.85,97.94
+CdOrangeDark,69.82,35.85,97.94
+cd yellow deep light,81.02,21.35,75.63
+CdYellowDeepLight,81.02,21.35,75.63
+cd yellow deep medium,73.7,33.09,96.65
+CdYellowDeepMedium,73.7,33.09,96.65
+cd yellow deep dark,72.5,34.01,94.95
+CdYellowDeepDark,72.5,34.01,94.95
+yellow deep light,86.87,7.9,84.41
+YellowDeepLight,86.87,7.9,84.41
+yellow deep medium,84.54,13.22,109.02
+YellowDeepMedium,84.54,13.22,109.02
+yellow deep dark,82.93,17.63,111.23
+YellowDeepDark,82.93,17.63,111.23
+cd yellow light,86.48,4.3,88.68
+CdYellowLight,86.48,4.3,88.68
+cd yellow medium,83.92,11.5,114.71
+CdYellowMedium,83.92,11.5,114.71
+cd yellow dark,83.44,13.1,115.59
+CdYellowDark,83.44,13.1,115.59
+indian yellow light,86.14,5.51,107.92
+IndianYellowLight,86.14,5.51,107.92
+indian yellow medium,82.84,10.91,114.03
+IndianYellowMedium,82.84,10.91,114.03
+indian yellow dark,81.18,13.03,112.88
+IndianYellowDark,81.18,13.03,112.88
+aureolin light,90.19,-4.26,62.16
+AureolinLight,90.19,-4.26,62.16
+aureolin medium,88.2,-2.57,95.74
+AureolinMedium,88.2,-2.57,95.74
+aureolin dark,85.52,1.54,112.83
+AureolinDark,85.52,1.54,112.83
+cd yellow pale light,87.49,0.96,92.27
+CdYellowPaleLight,87.49,0.96,92.27
+cd yellow pale medium,86.33,4.01,123.49
+CdYellowPaleMedium,86.33,4.01,123.49
+cd yellow pale dark,85.9,4.91,124.34
+CdYellowPaleDark,85.9,4.91,124.34
+cr yellow light,90.45,-2.71,74.44
+CrYellowLight,90.45,-2.71,74.44
+cr yellow medium,88.99,0.14,109.97
+CrYellowMedium,88.99,0.14,109.97
+cr yellow dark,87.89,3.68,116.39
+CrYellowDark,87.89,3.68,116.39
+yellow light,91.22,-5.46,72.62
+YellowLight,91.22,-5.46,72.62
+yellow medium,89.3,-1.64,117.4
+YellowMedium,89.3,-1.64,117.4
+yellow dark,88.23,1.01,119.62
+YellowDark,88.23,1.01,119.62
+trans yellow light,90.66,-6.03,100.79
+TransYellowLight,90.66,-6.03,100.79
+trans yellow medium,89.93,-4.12,110.49
+TransYellowMedium,89.93,-4.12,110.49
+trans yellow dark,88.62,-1.62,116.41
+TransYellowDark,88.62,-1.62,116.41
+cd lemon light,89.76,-4.33,53.51
+CdLemonLight,89.76,-4.33,53.51
+cd lemon medium,88.9,-5.39,87.16
+CdLemonMedium,88.9,-5.39,87.16
+cd lemon dark,88.46,-4.54,107.09
+CdLemonDark,88.46,-4.54,107.09
+lemon light,89.38,-4.81,57.23
+LemonLight,89.38,-4.81,57.23
+lemon medium,88.43,-5.8,91.2
+LemonMedium,88.43,-5.8,91.2
+lemon dark,88.11,-5.05,104.14
+LemonDark,88.11,-5.05,104.14
+lemon yellow light,90.79,-3.81,41
+LemonYellowLight,90.79,-3.81,41
+lemon yellow medium,90.06,-4.75,56.79
+LemonYellowMedium,90.06,-4.75,56.79
+lemon yellow dark,89.08,-4.64,70.96
+LemonYellowDark,89.08,-4.64,70.96
+XCMS_COLORDB_END,,,
